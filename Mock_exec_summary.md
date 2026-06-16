@@ -9,7 +9,7 @@ After we identified the affected servers, we have isolated them, imaged them usi
 **Business Impact:** <br>
 In terms of availability, this incident disrupted R&D operations for 10 hours because our researchers could not access any data to move forward with our new projects. This incident took place from 10:30 AM [EST] to 8:30 PM [EST]. While the probability of reputational damage from the press and regulatory fines is very low because no customer or employee PII was affected, it resulted in disruption in our research and operations. The server and data have been restored using our off-premises backup after 10 hours of downtime. Currently, our research and operations are resumed, and all our confidential data is safe and remains intact as audits of system logs don’t show exfiltration activity and further investigation is being done. 
 
-**Next Steps: ** <br>
+**Next Steps:** <br>
 Our cybersecurity team has completed the identification, response, containment and ransomware eradication phases of our incident response plan. We have also restored all the data from our backups and operations have resumed. We have disabled vulnerable ports and protocols associated with remote management until the vendor releases a patch. A comprehensive post incident review (PIR) is underway to document lessons learned and update our threat signatures.
 
 **Nature of the attack:** <br>
