@@ -1,0 +1,1 @@
+I've written a Mock Executive summary as part of my mentorship program (ISACA) focusing on an imaginary company, Red&Blue, and detailed the description of the attack, impact on the company, and recommended remidiation steps. 
